@@ -1,2 +1,2 @@
-![PornyFlow](https://porny.blny.me/flow-logo.png)
-## TensorFlow gets naughty
+# PornyFlow
+TensorFlow gets naughty
